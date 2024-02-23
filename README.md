@@ -14,3 +14,25 @@ Task Tracking and Assignment: Facilitate task management by allowing users to cr
 Interactive Dashboard: Develop a dynamic dashboard that provides users with an overview of their ongoing projects, tasks, deadlines, and team performance metrics. The dashboard offers customizable widgets and charts to visualize project progress and performance.
 
 Integration with Third-Party Tools: Support integration with popular third-party tools and services, such as version control systems, issue trackers, and productivity applications, to enhance the functionality and interoperability of the project management solution.
+
+# Technologies Used:
+Technologies Used in Project Management Solution Project 
+1. Spring Boot (REST APIS) 
+2. React JS (Frontend) 
+3. MySQL for Database 
+4. Maven for project management 
+5. Bootstrap (Styling)
+
+# Functional Modules in Project Management Solution :
+User Authentication 
+The registration and Login system has been added so that only authenticated users
+1) Project Manager Module : 
+(Project Manager, Team Lead & Team Member) can perform their functionalities. 
+3) Project Manager Module:  
+Register Team lead, View Team lead, View Team Members, Assign Task to Team Lead Delete Team lead, Track Status, Change Password. 
+4) Team lead Module:  
+Register Team Member, View Task Assigned by Project Manager , View Team Member, Assign Task to Team Member Delete Team Member, Change Password. 
+5) Team Member Module:
+   View Task, Update Status 
+ 
+
