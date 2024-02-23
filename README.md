@@ -1,5 +1,6 @@
-![Home Page](https://github.com/nomeshchakole16/Project-Management-Solution/assets/125289350/582813a1-38ac-4117-aa08-8c75bb68b793)
+ 
 # Project-Management-Solution
+![Home Page](https://github.com/nomeshchakole16/Project-Management-Solution/assets/125289350/582813a1-38ac-4117-aa08-8c75bb68b793)
 
 # Description:
 The ReactJS and Spring Boot Project Management Solution is a comprehensive web application designed to streamline project management processes for teams of all sizes. By combining the robust frontend capabilities of ReactJS with the powerful backend infrastructure of Spring Boot, this solution offers a highly efficient and scalable platform for organizing, tracking, and collaborating on projects.
