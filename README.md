@@ -26,12 +26,14 @@ Technologies Used in Project Management Solution Project
 # Functional Modules in Project Management Solution :
 User Authentication 
 The registration and Login system has been added so that only authenticated users
-1) Project Manager Module : 
-(Project Manager, Team Lead & Team Member) can perform their functionalities. 
-3) Project Manager Module:  
-Register Team lead, View Team lead, View Team Members, Assign Task to Team Lead Delete Team lead, Track Status, Change Password. 
-4) Team lead Module:  
-Register Team Member, View Task Assigned by Project Manager , View Team Member, Assign Task to Team Member Delete Team Member, Change Password. 
+ (Project Manager, Team Lead & Team Member) can perform their functionalities. 
+
+1) Project Manager Module:  
+Register Team lead, View Team lead, View Team Members, Assign Task to Team Lead Delete Team lead, Track Status, Change Password.
+
+3) Team lead Module:  
+Register Team Member, View Task Assigned by Project Manager , View Team Member, Assign Task to Team Member Delete Team Member, Change Password.
+
 5) Team Member Module:
    View Task, Update Status 
  
