@@ -29,7 +29,7 @@ The registration and Login system has been added so that only authenticated user
  (Project Manager, Team Lead & Team Member) can perform their functionalities. 
 
 1) Project Manager Module:  
-Register Team lead, View Team lead, View Team Members, Assign Task to Team Lead Delete Team lead, Track Status, Change Password.
+Add New Task , Register Team lead, View Team lead, View Team Members, Assign Task to Team Lead Delete Team lead, Track Status, Change Password.
 
 3) Team lead Module:  
 Register Team Member, View Task Assigned by Project Manager , View Team Member, Assign Task to Team Member Delete Team Member, Change Password.
