@@ -35,6 +35,6 @@ Register Team lead, View Team lead, View Team Members, Assign Task to Team Lead 
 Register Team Member, View Task Assigned by Project Manager , View Team Member, Assign Task to Team Member Delete Team Member, Change Password.
 
 5) Team Member Module:
-   View Task, Update Status 
+View Task, Update Status 
  
 
