@@ -24,7 +24,7 @@ Technologies Used in Project Management Solution Project
 5. Bootstrap (Styling)
 
 # Functional Modules in Project Management Solution :
-User Authentication 
+  
 The registration and Login system has been added so that only authenticated users
  (Project Manager, Team Lead & Team Member) can perform their functionalities. 
 
